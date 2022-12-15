@@ -1,7 +1,9 @@
 ### <div align="center">Hola soy Marcos Kuyoc un desarrollador Full Stack Javascript 👨‍💻 Trabajo remoto desde  2020 🚀</div>  
   
 
-Programador con 14 años de experiencia, logrando desarrollar e implementar diferentes productos que ayudan a las empresas y/o personas a generar información útil y de calidad para la toma de mejores decisiones, aumentando la eficiencia de las tareas y procesos generando mejores utilidades.  
+Programador con 14 años de experiencia, logrando desarrollar e implementar diferentes productos que ayudan a las empresas y/o personas a generar información útil y de calidad para la toma de mejores decisiones, aumentando la eficiencia de las tareas y procesos generando mejores utilidades. 
+
+- CV : [CV-Marcos-kuyoc.pdf](https://github.com/Marcos-Kuyoc-FullStack/Marcos-Kuyoc-FullStack/files/10238682/CV-Marcos-kuyoc.pdf)
   
 
 - ⛽  Actualmente trabajo en una compañía del sector energético en México llamada [Gulf Mexico](https://gulfmexico.mx/)  
@@ -143,6 +145,3 @@ Programador con 14 años de experiencia, logrando desarrollar e implementar dife
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-
-[CV-Marcos-kuyoc.pdf](https://github.com/Marcos-Kuyoc-FullStack/Marcos-Kuyoc-FullStack/files/10238682/CV-Marcos-kuyoc.pdf)
