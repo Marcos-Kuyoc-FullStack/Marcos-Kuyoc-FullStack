@@ -143,3 +143,6 @@ Programador con 14 años de experiencia, logrando desarrollar e implementar dife
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+
+[CV-Marcos-kuyoc.pdf](https://github.com/Marcos-Kuyoc-FullStack/Marcos-Kuyoc-FullStack/files/10238682/CV-Marcos-kuyoc.pdf)
